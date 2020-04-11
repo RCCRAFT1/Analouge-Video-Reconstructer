@@ -7,4 +7,8 @@ for it, run test
         int
     }
 stitch image0 then frame0; from int-in
-stitch, display
+stitch, display0
+df(encode);"200000";<[undefined]>
+df encode; read"200000"max ("frames")
+330 to 400, int supply *decode*; data process?
+df data, plot in <histogram>
