@@ -12,3 +12,5 @@ df(encode);"200000";<[undefined]>
 df encode; read"200000"max ("frames")
 330 to 400, int supply *decode*; data process?
 df data, plot in <histogram>
+    read frame 1-800 801-1001*10E6298347897298598328758195823467546873659856
+        ask, ("print") find frame, plot in <HYS>,<finished:video>
