@@ -18,4 +18,4 @@ FLMF: Function Last Minute Filtering
  A> G>1000-10000 iterations through CON> 89275734576 IT through DF> 4 IT through COMB1> 7000000 IT through DE> 3 IT through COMB2> 1 IT FLMF IF NEEDED> D
   > B>3000 IT through CON> 89275734576 IT through DF> 4 IT through COMB1>COMBINED 
 
-Sorry for broken lines!
+Sorry for broken lines! 
