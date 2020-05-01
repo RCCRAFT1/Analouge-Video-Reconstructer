@@ -14,8 +14,11 @@ COMB2: Combination Filter 2
 IT: Iterations
 FLMF: Function Last Minute Filtering
 
-  > R>2000 IT through CON> 89275734576 IT through DF> 4 IT through COMB1>COMBINED 
- A> G>1000-10000 iterations through CON> 89275734576 IT through DF> 4 IT through COMB1> 7000000 IT through DE> 3 IT through COMB2> 1 IT FLMF IF NEEDED> D
-  > B>3000 IT through CON> 89275734576 IT through DF> 4 IT through COMB1>COMBINED 
+ A R>2000 IT through CON> 89275734576 IT through DF> 4 IT through COMB1>COMBINED TO G
+ 
+ A G>1000-10000 iterations through CON> 89275734576 IT through DF> 4 IT through COMB1> 7000000 IT through DE> 3 IT through COMB2> 1 IT
+ FLMF IF NEEDED> D
+ 
+ A B>3000 IT through CON> 89275734576 IT through DF> 4 IT through COMB1>COMBINED TO G
 
-Sorry for broken lines! 
+ 
