@@ -1,7 +1,7 @@
 can, IT
 for it, run test
     {com2} readline0-15 then 16-220
-    {
+    {slot1
         int interchange; load for analouge 330-400 read; in bash for 0
         load image0 then (random) frames, count frame 0; int3
         int
@@ -14,3 +14,6 @@ df encode; read"200000"max ("frames")
 df data, plot in <histogram>
     read frame 1-800 801-1001*10E6298347897298598328758195823467546873659856
         ask, ("print") find frame, plot in <HYS>,<finished:video>
+                start{slot2}
+                    ask
+pskeam;startprint ask
